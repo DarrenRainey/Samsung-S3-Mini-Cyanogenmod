@@ -7,3 +7,4 @@ This page will be updated with new information as it becomes available.
 
 Precompiled versions of the port will also be available for download soon.
 
+To install simply download this repo as a zip file and use a custom recovery such as twrp or clockwork mod to flash it to the device
