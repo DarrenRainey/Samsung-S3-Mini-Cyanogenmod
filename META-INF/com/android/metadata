@@ -1,0 +1,3 @@
+post-build=samsung/cm_golden/golden:5.1.1/LMY48G/8faea5e644:userdebug/test-keys
+post-timestamp=1440683551
+pre-device=golden
