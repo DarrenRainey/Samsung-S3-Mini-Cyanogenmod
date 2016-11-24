@@ -14,3 +14,5 @@ Branchs:
 Master - Most Up To Date
 <br>
 4.4.4 - KitKat May Have Better Performatance
+
+Note that ADB is left on by default
